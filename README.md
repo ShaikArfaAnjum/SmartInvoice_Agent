@@ -1,7 +1,4 @@
-# SmartInvoice_Agent
-Multi-agent system for invoice management
 # SmartInvoice Agent
-
 SmartInvoice Agent is a multi-agent system designed to automate invoice management tasks.
 
 ## 🎯 Problem Statement
