@@ -1,0 +1,5 @@
+invoice_id,customer,amount,status
+101,Arfa,2500,Paid
+102,Sara,1800,Pending
+103,Ibrahim,3000,Overdue
+104,Fatima,4200,Pending
